@@ -4,7 +4,7 @@ Code adapted from https://dafx.de/DAFX_Book_Page_2nd_edition/matlab.html
 
 MATLAB scripts converted to Python 3.
 
-Sound processing only, opertating on .wav files.
+Sound processing only, operating on .wav files.
 
 No support for graphics, measurement of execution time, or direct playback of audio.
 
