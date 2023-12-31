@@ -15,5 +15,5 @@ Chapters completed to date: ch7 only.
 
 
 Credit to the original authors:
-Udo Zolzer, D. Arfib, F. Keiler, U. Zolzer, V. Verfaille and J. Bonada
+Udo Zolzer, D. Arfib, F. Keiler, V. Verfaille and J. Bonada
 
